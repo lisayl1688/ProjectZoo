@@ -1,6 +1,6 @@
 # Project Zoo
 
-![Preview screenshot](./src/assets/preview_ProjectZoo.png)
+![Preview screenshot](./src/assets/preview_projectZoo.png)
 
 ## Overview
 Project Zoo is a web application that simulates managing a virtual zoo. It allows users to add, categorize, and explore various animals across different habitats within the zoo environment.
