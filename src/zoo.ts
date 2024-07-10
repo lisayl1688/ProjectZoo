@@ -46,10 +46,12 @@ const specialNeeds = document.getElementById(
 ) as HTMLInputElement;
 const enclosureID = document.getElementById("enclosureId") as HTMLSelectElement;
 const resultFieldElement = document.getElementById("resultSectionElement");
+/*
 const savanna = document?.querySelector(".savanna");
 const jungle = document?.querySelector(".jungle");
 const ocean = document?.querySelector(".ocean");
 const desert = document?.querySelector(".desert");
+*/
 
 function createAnimal(
   type: string,
